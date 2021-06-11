@@ -7,7 +7,7 @@
 ## H2020-MSCA-ITN-2020 training programe
 ## (Grant No 956623)
 
-<p bold=true, align="center">
+<p # align="center">
 (Grant No 956623)
 </p>
 
