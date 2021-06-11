@@ -5,8 +5,11 @@
 
 ## Inventive forecasting tools for adapting water quality management to a new climate
 ## H2020-MSCA-ITN-2020 training programe
-## (Grant No 956623)**
+## (Grant No 956623)
 
+<p bold=true, align="center">
+(Grant No 956623)
+</p>
 
 <p align="center">
 <img src="https://github.com/dmbettin/inventWater/blob/main/EuropeFlag.png" width="20%">
